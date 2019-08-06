@@ -1,4 +1,9 @@
 <html>
 <body>
-<MAP NAME="img.jpg">
+<MAP NAME="mymap">
 <AREA SHAPE="circle" coords="5,10,12" HREF="https://www.google.com/">
+<AREA SHAPE="circle" coords="5,10,12" HREF="https://www.amity.edu/kolkata/">
+<AREA SHAPE="circle" coords="5,10,12" HREF="https://www.amazon.in/">
+<IMG SRC=
+
+
